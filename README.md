@@ -1,95 +1,67 @@
-<h1 align="center">Hi 👋, I'm Manish Joshi</h1>
+<div align="center">
 
-<p align="center">
-  <b>B.Tech CSE Student | Programmer | Developer</b>
+# Manish Joshi
+
+### B.Tech CSE Student · Developer · Problem Solver
+
+<p>
+  <a href="https://github.com/mjoshi2233-web">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <i>Code → Build → Learn → Repeat</i>
-</p>
+</div>
 
 ---
 
-## 🖥️ About Me
+## About
 
-<pre>
-manish@github:~$ whoami
+I'm a Computer Science Engineering student interested in **Data Structures & Algorithms, software development, and building practical applications**.
 
-Name        : Manish Joshi
-Degree      : B.Tech CSE
-Location    : India
-Focus       : Programming & Development
-
-manish@github:~$ echo $DAILY_ROUTINE
-
-Code → Build → Learn → Repeat
-
-manish@github:~$
-</pre>
+Currently focused on strengthening my problem-solving skills, improving my development workflow, and turning ideas into working software.
 
 ---
 
-## 🛠️ Languages & Tools
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mysql,git,github,vscode" />
-</p>
+**Languages**
 
----
+`C++` · `Java` · `Python` · `JavaScript` · `SQL`
 
-## 🐍 GitHub Contribution Snake
+**Tools & Technologies**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mjoshi2233-web/mjoshi2233-web/output/github-snake.svg" width="100%" />
-</p>
+`Git` · `GitHub` · `VS Code` · `HTML` · `CSS` · `MySQL`
 
 ---
 
-## 📊 GitHub Streak
+## Coding Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mjoshi2233-web&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/mjoshi2233-web/mjoshi2233-web/output/github-snake.svg" width="100%" />
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjoshi2233-web&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoshi2233-web&layout=compact&theme=dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🎯 Current Goals
+## Currently
 
-<pre>
-[+] Improve DSA
-[+] Build real-world projects
-[+] Learn new technologies
-[+] Prepare for software engineering roles
-[+] Contribute to GitHub
-</pre>
+* Solving **DSA & competitive programming** problems
+* Building and improving **software projects**
+* Learning more about **backend and application development**
+* Preparing for **software engineering opportunities**
 
 ---
 
-## 💻 Coding Philosophy
+<div align="center">
 
-<pre>
-while (alive) {
-    learn();
-    code();
-    build();
-    repeat();
-}
-</pre>
+### `Build. Learn. Improve.`
 
----
+<br>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mjoshi2233-web&style=flat-square&color=brightgreen&label=PROFILE+VIEWS" />
+
+</div>
