@@ -1,60 +1,77 @@
 <div align="center">
 
-# Manish Joshi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,25:003300,55:006600,100:00ff41&height=230&section=header&text=MANISH%20JOSHI&fontSize=55&fontColor=00ff41&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-### B.Tech CSE Student · Developer · Problem Solver
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=B.Tech+CSE+Student;Software+Developer;DSA+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" />
+</a>
 
-<p>
-  <a href="https://github.com/mjoshi2233-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mjoshi2233-web&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## About
-
-I'm a Computer Science Engineering student interested in **Data Structures & Algorithms, software development, and building practical applications**.
-
-Currently focused on strengthening my problem-solving skills, improving my development workflow, and turning ideas into working software.
-
----
-
-## Tech Stack
-
-**Languages**
-
-`C++` · `Java` · `Python` · `JavaScript` · `SQL`
-
-**Tools & Technologies**
-
-`Git` · `GitHub` · `VS Code` · `HTML` · `CSS` · `MySQL`
-
----
-
-## Coding Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mjoshi2233-web/mjoshi2233-web/output/github-snake.svg" width="100%" />
+## 👨‍💻 About Me
+
+</div>
+
+I'm a **Computer Science Engineering student** interested in software development, problem solving and Data Structures & Algorithms.
+
+I enjoy understanding how things work, solving programming problems and building applications while continuously improving my technical skills.
+
+<br>
+
+<div align="center">
+
+| 🎓 Education | 💻 Focus | 🌱 Learning |
+|:---:|:---:|:---:|
+| B.Tech CSE | DSA & Development | New Technologies |
 
 </div>
 
 ---
 
-## Currently
+<div align="center">
 
-* Solving **DSA & competitive programming** problems
-* Building and improving **software projects**
-* Learning more about **backend and application development**
-* Preparing for **software engineering opportunities**
+## ⚡ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+
+### Web & Database
+
+<img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🧠 What I'm Working On
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   ▸ Data Structures & Algorithms                         │
+│   ▸ Problem Solving                                     │
+│   ▸ C++ & Java                                          │
+│   ▸ Software Development                                │
+│   ▸ Building practical applications                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 <div align="center">
 
